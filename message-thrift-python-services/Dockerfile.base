@@ -1,0 +1,4 @@
+FROM python:3.6
+MAINTAINER mcc mcc_cool1257@hotmail.com
+
+RUN pip install thrift
